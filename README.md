@@ -1,6 +1,6 @@
 # Tag-Identification-Using-NLP 
 
-This project fetches the text from a Wikipedia page, removes stopwords, and plots the frequency distribution of the remaining words using Python. Specifically, the script is configured to analyze the Wikipedia page for "Microsoft"
+This project fetches the text from a Wikipedia page, removes stopwords, and plots the frequency distribution of the remaining words using Python. Specifically, the script is configured to analyze the Wikipedia page for "Microsoft" and provide the top 30 words (tags) with the highest frequency count using basic NLP techniques.
 
 ## A) Prerequisites
 Before you begin, ensure you have met the following requirements:
