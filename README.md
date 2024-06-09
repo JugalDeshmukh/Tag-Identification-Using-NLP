@@ -10,7 +10,8 @@ You have the following Python packages installed:
 1. nltk
 2. beautifulsoup4
 3. html5lib
-You can install the required packages using pip on the command prompt of your admin system - pip install nltk beautifulsoup4 html5lib
+
+You can install the above packages using pip on the command prompt of your admin system - pip install nltk beautifulsoup4 html5lib
 
 ## B) Installation
 1. Clone this repository or download the script directly.
