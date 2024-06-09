@@ -24,7 +24,7 @@ Note: Replace script_name.py with the actual name of your script.
 
 ## D) How It Works:
 1. The script fetches the HTML content from the Wikipedia page for "Microsoft"
-2.It parses the HTML to extract the text content using BeautifulSoup.
+2. It parses the HTML to extract the text content using BeautifulSoup.
 3. The text is tokenized into individual words.
 4. Common English stopwords are removed from the tokens.
 5. The frequency distribution of the remaining words is calculated.
